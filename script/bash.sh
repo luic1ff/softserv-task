@@ -1,1 +1,1 @@
-echo 'The practice started'
+echo 'The practice all started'
